@@ -43,14 +43,22 @@ An interactive web application built using Streamlit to experiment with custom n
 
 ## 1. Clone this repository:
 
+```
 git clone https://github.com/VodnalaNaveen/Tensorflow_playground.git
+
 cd tf-playground-app
+```
 
 ## 2. Install dependencies:
+```
       pip install -r requirements.txt
+```
 
 ## 3. Run the app:
+
+```
       streamlit run app.py
+```
 
 ---
   ##  📊 Example Output
@@ -65,7 +73,7 @@ cd tf-playground-app
   Experience the app directly in your browser – no installation needed!
   Interactively build and train neural networks on synthetic datasets and visualize decision boundaries in real time.
 
-🔗  Hugging Face link https://huggingface.co/spaces/Naveenvodnala/Implementation_of_Tensorflow_Playground
+🔗  Hugging Face link ``` https://huggingface.co/spaces/Naveenvodnala/Implementation_of_Tensorflow_Playground ```
 
 
 ## 🧠 Learning Outcomes
