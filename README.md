@@ -7,16 +7,16 @@ An interactive web application built using Streamlit to experiment with custom n
 ## 🚀 Features
 
 - Choose from 3 datasets:
-  - make_blobs (Multi-class classification)
-  - make_circles (Binary classification)
-  - make_moons (Binary classification)
+  - `make_blobs` (Multi-class classification)
+  - `make_circles` (Binary classification)
+  - `make_moons` (Binary classification)
 
 - Custom neural network builder:
   - Add multiple hidden layers
-  - Choose neurons and activation functions (ReLU, Sigmoid, Tanh)
+  - Choose neurons and activation functions (`ReLU`, `Sigmoid`, `Tanh`)
 
 - Optimizer selection:
-  - Supports Adam, SGD, RMSprop, Adagrad
+  - Supports `Adam`, `SGD`, `RMSprop`, `Adagrad`
 
 - Dynamic configuration:
   - Adjustable learning rate, batch size, epochs, and train-test split
@@ -51,13 +51,13 @@ cd tf-playground-app
 
 ## 2. Install dependencies:
 ```
-      pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 3. Run the app:
 
 ```
-      streamlit run app.py
+streamlit run app.py
 ```
 
 ---
@@ -73,7 +73,7 @@ cd tf-playground-app
   Experience the app directly in your browser – no installation needed!
   Interactively build and train neural networks on synthetic datasets and visualize decision boundaries in real time.
 
-🔗  Hugging Face link ``` https://huggingface.co/spaces/Naveenvodnala/Implementation_of_Tensorflow_Playground ```
+🔗  Hugging Face link :  ``` https://huggingface.co/spaces/Naveenvodnala/Implementation_of_Tensorflow_Playground ```
 
 
 ## 🧠 Learning Outcomes
